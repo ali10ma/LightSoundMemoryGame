@@ -24,6 +24,8 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='http://g.recordit.co/4WF7paRnu9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 http://g.recordit.co/4WF7paRnu9.gif
 
 
